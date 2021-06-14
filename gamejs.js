@@ -81,7 +81,7 @@ function reset_images() {
 }
 
 function back_to_normal() {
-    document.getElementById('tab_grid').style.background = 'url("lg.png")';
+    document.getElementById('tab_grid').style.background = 'url("img/lg.png")';
 
     setTimeout(reset_images,5000);
 }
@@ -124,7 +124,7 @@ function switching(cell) {
                         document.getElementById('p31').style.visibility = 'hidden';
                         document.getElementById('p32').style.visibility = 'hidden';
                         document.getElementById('p33').style.visibility = 'hidden';
-                        document.getElementById('tab_grid').style.background = 'url("win.gif")';
+                        document.getElementById('tab_grid').style.background = 'url("img/win.gif")';
 
                         setTimeout(back_to_normal, 5000)
 

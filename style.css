@@ -33,41 +33,41 @@ body {
 }
 
 #p11 {
-    background: url('11.jpg');
+    background: url('img/11.jpg');
     
 }
 
 #p12 {
-    background: url('12.jpg');
+    background: url('img/12.jpg');
 }
 
 #p13 {
-    background: url('13.jpg');
+    background: url('img/13.jpg');
 }
 
 #p21 {
-    background: url('21.jpg');
+    background: url('img/21.jpg');
 }
 
 #p22 {
-    background: url('22.jpg');
+    background: url('img/22.jpg');
       
 }
 
 #p23 {
-    background: url('23.jpg');
+    background: url('img/23.jpg');
 }
 
 #p31 {
-    background: url('31.jpg');
+    background: url('img/31.jpg');
 }
 
 #p32 {
-    background: url('32.jpg');
+    background: url('img/32.jpg');
 }
 
 #p33 {
-    background: url('33.jpg');
+    background: url('img/33.jpg');
 } 
 
 #launch {
